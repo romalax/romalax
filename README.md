@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="http://t.me/romamalax">@romamalax</a> | 
-  <a href="http://habr.com/ru/users/romalax">@romamalax</a>
+  tg: <a href="http://t.me/romamalax">@romamalax</a> | 
+  habr: <a href="http://habr.com/ru/users/romalax">@romamalax</a>
 </div>
 
 <br/>
