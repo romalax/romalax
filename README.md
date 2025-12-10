@@ -6,5 +6,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romalax&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=true" alt="Top Languages" width="500" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romamalax&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&hide_title=true" alt="Top Languages" width="500" />
 </div>
