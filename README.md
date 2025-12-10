@@ -1,7 +1,16 @@
-* tg: [@romamalax](http://t.me/romamalax)
-* habr: [@romamalax](http://habr.com/ru/users/romamalax)
+<div align="center">
+  <a href="http://t.me/romamalax">@romamalax</a> | 
+  <a href="http://habr.com/ru/users/romamalax">@romamalax</a>
+</div>
 
+<br/>
 
-[![](https://github-readme-stats.vercel.app/api?username=romalax&count_private=true&theme=vue-dark&show_icons=true&include_all_commits=true)](https://github.com/romalax)<br>
-[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romalax&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]<br>(https://github.com/romalax)
-<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romalax&count_private=true&theme=vue-dark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romalax&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
